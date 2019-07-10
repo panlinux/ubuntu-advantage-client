@@ -1,8 +1,8 @@
 ubuntu-advantage-tools (19.5.1~ubuntu14.04.1) trusty; urgency=medium
 
-  * Backport to trusty
+  * Backport to trusty (LP: #1832757)
 
- -- Andreas Hasenack <andreas@canonical.com>  Thu, 04 Jul 2019 14:30:47 -0300
+ -- Andreas Hasenack <andreas@canonical.com>  Wed, 10 Jul 2019 16:48:03 -0300
 
 ubuntu-advantage-tools (19.5.1) eoan; urgency=medium
 
